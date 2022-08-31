@@ -16,6 +16,7 @@ Storybook essentials includes the following addons. Addons can be disabled and r
 - [Toolbars](https://github.com/storybookjs/storybook/tree/next/code/addons/toolbars)
 - [Measure](https://github.com/storybookjs/storybook/tree/next/code/addons/measure)
 - [Outline](https://github.com/storybookjs/storybook/tree/next/code/addons/outline)
+- [Highlight](https://github.com/storybookjs/storybook/tree/next/code/addons/highlight)
 
 ## Installation
 
